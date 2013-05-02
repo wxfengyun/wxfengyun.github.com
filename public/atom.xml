@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[WXFENGYUN的随笔小记]]></title>
+  <link href="http://wxfengyun.github.io/atom.xml" rel="self"/>
+  <link href="http://wxfengyun.github.io/"/>
+  <updated>2013-05-02T18:42:32+08:00</updated>
+  <id>http://wxfengyun.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[123]]></title>
+    <link href="http://wxfengyun.github.io/blog/2013/05/02/123/"/>
+    <updated>2013-05-02T16:34:00+08:00</updated>
+    <id>http://wxfengyun.github.io/blog/2013/05/02/123</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
