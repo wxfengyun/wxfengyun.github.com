@@ -4,7 +4,7 @@
   <title><![CDATA[WXFENGYUN的随笔小记]]></title>
   <link href="http://wxfengyun.github.io/atom.xml" rel="self"/>
   <link href="http://wxfengyun.github.io/"/>
-  <updated>2013-05-02T18:42:32+08:00</updated>
+  <updated>2013-05-02T19:00:41+08:00</updated>
   <id>http://wxfengyun.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[456]]></title>
+    <link href="http://wxfengyun.github.io/blog/2013/05/02/456/"/>
+    <updated>2013-05-02T18:48:00+08:00</updated>
+    <id>http://wxfengyun.github.io/blog/2013/05/02/456</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[123]]></title>
