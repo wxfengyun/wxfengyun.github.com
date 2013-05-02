@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[WXFENGY111UN的随笔小记]]></title>
+  <title><![CDATA[WXFENG000YUN的随笔小记]]></title>
   <link href="http://wxfengyun.github.io/atom.xml" rel="self"/>
   <link href="http://wxfengyun.github.io/"/>
-  <updated>2013-05-02T19:06:47+08:00</updated>
+  <updated>2013-05-02T21:15:51+08:00</updated>
   <id>http://wxfengyun.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,19 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[1234]]></title>
-    <link href="http://wxfengyun.github.io/blog/2013/05/02/1234/"/>
-    <updated>2013-05-02T16:10:00+08:00</updated>
-    <id>http://wxfengyun.github.io/blog/2013/05/02/1234</id>
+    <title type="html"><![CDATA[456]]></title>
+    <link href="http://wxfengyun.github.io/blog/2013/05/02/456/"/>
+    <updated>2013-05-02T18:48:00+08:00</updated>
+    <id>http://wxfengyun.github.io/blog/2013/05/02/456</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[1]]></title>
-    <link href="http://wxfengyun.github.io/blog/2013/05/02/1/"/>
-    <updated>2013-05-02T15:54:00+08:00</updated>
-    <id>http://wxfengyun.github.io/blog/2013/05/02/1</id>
+    <title type="html"><![CDATA[123]]></title>
+    <link href="http://wxfengyun.github.io/blog/2013/05/02/123/"/>
+    <updated>2013-05-02T16:34:00+08:00</updated>
+    <id>http://wxfengyun.github.io/blog/2013/05/02/123</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
