@@ -4,7 +4,7 @@
   <title><![CDATA[WXFENG000YUN的随笔小记]]></title>
   <link href="http://wxfengyun.github.io/atom.xml" rel="self"/>
   <link href="http://wxfengyun.github.io/"/>
-  <updated>2013-05-02T21:15:51+08:00</updated>
+  <updated>2013-05-02T21:18:04+08:00</updated>
   <id>http://wxfengyun.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,20 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[456]]></title>
-    <link href="http://wxfengyun.github.io/blog/2013/05/02/456/"/>
-    <updated>2013-05-02T18:48:00+08:00</updated>
-    <id>http://wxfengyun.github.io/blog/2013/05/02/456</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[123]]></title>
-    <link href="http://wxfengyun.github.io/blog/2013/05/02/123/"/>
-    <updated>2013-05-02T16:34:00+08:00</updated>
-    <id>http://wxfengyun.github.io/blog/2013/05/02/123</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://wxfengyun.github.io/blog/2013/05/02/hello-world/"/>
+    <updated>2013-05-02T21:17:00+08:00</updated>
+    <id>http://wxfengyun.github.io/blog/2013/05/02/hello-world</id>
+    <content type="html"><![CDATA[<p>我的第一篇博客，哈哈!</p>
 ]]></content>
   </entry>
   
