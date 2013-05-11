@@ -4,7 +4,7 @@
   <title><![CDATA[WXFENGYUN的随笔小记]]></title>
   <link href="http://wxfengyun.github.io/atom.xml" rel="self"/>
   <link href="http://wxfengyun.github.io/"/>
-  <updated>2013-05-11T21:53:20+08:00</updated>
+  <updated>2013-05-11T21:55:46+08:00</updated>
   <id>http://wxfengyun.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -23,11 +23,8 @@
 今日趁着GitHub博客写作新风尚的兴起，我也来凑凑热闹，搞了这么一个博客，希望今后能够慢慢坚持，写一些小文章吧。
 </code></pre>
 
-<p> <img src="http://wxfengyun.github.io/images/HelloWorld.png"></p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>Hello World!</span></code></pre></td></tr></table></div></figure>
-
+<p> <img src="http://wxfengyun.github.io/images/HelloWorld.png">
+<code>Hello World!</code></p>
 ]]></content>
   </entry>
   
